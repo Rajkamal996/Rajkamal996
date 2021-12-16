@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rajkamal
 - 👀 I’m interested in AWS & Devops Engineer
-- 🌱 I’m currently learning Professional Solution Architect
+- 🌱 I’m working as Senior Devops Engineer
+- 
 
 
 <!---
